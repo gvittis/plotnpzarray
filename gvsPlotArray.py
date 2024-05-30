@@ -135,4 +135,4 @@ if __name__ == "__main__":
                 MyArray.create_wirecell_plot().write_image(f"./nameoftheoutputpathofnotcompressedimages/nameofoutputfile_{ievent}.png", scale = 6)
             else: 
                 MyArray.create_wirecell_plot().write_image(f"./nameoftheoutputpathofcompressedimages/nameofoutputfile_{ievent}.png", scale = 6)
-            break
+            ##break
