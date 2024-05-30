@@ -35,6 +35,20 @@ Finally, make sure you inserted the name and path of the .npz arrays as well as 
 
 python3 gvsPlotArray.py
 
+## Some useful parameters
+
+https://github.com/gvittis/plotnumpyarray/blob/f73f3b339f5191fc80426183ec79c8a495ae4a86/gvsPlotArray.py#L124 -> Compress over x axis
+
+https://github.com/gvittis/plotnumpyarray/blob/f73f3b339f5191fc80426183ec79c8a495ae4a86/gvsPlotArray.py#L125C3-L125C22 -> Compress over y axis
+
+Increase the "scale" variable in lines 135 and 137 for bigger images.
+
+Export as .pdf if you want images with full resolution.
+
+Uncomment line 138 of you want to process just the first frame of the arrays.
+
+
+
 
 
 
