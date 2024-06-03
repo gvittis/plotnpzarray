@@ -45,7 +45,7 @@ Increase the "scale" variable in lines 135 and 137 for bigger images.
 
 Export as .pdf if you want images with full resolution.
 
-Uncomment line 138 of you want to process just the first frame of the arrays.
+Uncomment line 138 if you want to process just the first frame of the arrays.
 
 
 
