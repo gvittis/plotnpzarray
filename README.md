@@ -7,6 +7,7 @@ You just need to download the content of this repository in your local/virtual m
 1. Adjust the name and path of your python environment inside "setup_python_env.sh" and "activate_python_env.sh" code lines. Specifically, change:
 
 yourpythonenv
+
 pathtoyourpythonenv
 
 2. Adjust the name and path to the input and output files from "gvsPlotArray.py" file. They are in lines:
